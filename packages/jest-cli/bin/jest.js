@@ -6,6 +6,8 @@
  * LICENSE file in the root directory of this source tree.
  */
 
+require('module-alias/register');
+
 const importLocal = require('import-local');
 
 if (!importLocal(__filename)) {

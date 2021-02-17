@@ -1950,6 +1950,7 @@ __metadata:
     micromatch: ^4.0.2
     mlh-tsd: ^0.14.1
     mock-fs: ^4.4.1
+    module-alias: ^2.2.2
     node-notifier: ^9.0.0
     prettier: ^2.1.1
     progress: ^2.0.0
@@ -14252,6 +14253,13 @@ fsevents@~2.1.2:
   version: 1.0.1
   resolution: "modify-values@npm:1.0.1"
   checksum: 55165ae8b4ea2aafebe5027dd427d4a833d54606c81546f4d3c04943d99d194ac9481fa076719f326d243c475e2dfa5cf0219e68cffbbf9c44b24e46eb889779
+  languageName: node
+  linkType: hard
+
+"module-alias@npm:^2.2.2":
+  version: 2.2.2
+  resolution: "module-alias@npm:2.2.2"
+  checksum: 1b37943df4fbe56799688eb3496f5113f7f1e18ff7a53bd3543e93fd4ee6c4b04e1548fc0cb49ae73e086b18ee712ab3321f6d7f5444cf413c638914decb8918
   languageName: node
   linkType: hard
 

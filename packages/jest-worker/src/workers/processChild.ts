@@ -5,6 +5,8 @@
  * LICENSE file in the root directory of this source tree.
  */
 
+require('module-alias/register');
+
 import {
   CHILD_MESSAGE_CALL,
   CHILD_MESSAGE_END,
